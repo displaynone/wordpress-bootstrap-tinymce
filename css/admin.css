@@ -1,0 +1,22 @@
+i.mce-i-bootstrap {
+	font: normal 20px/1 'dashicons';
+	padding: 0;
+	vertical-align: top;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-left: -2px;
+	padding-right: 2px;
+}
+i.mce-i-bootstrap:before {
+	content: '\f479';
+}
+.bootstrap-dialog p {padding: 5px 0;}
+.bootstrap-dialog p a {color: #0074A2; text-decoration: underline;}
+.mce-container .columns_container {border: 1px solid #F0f0f0; padding: 20px; border-radius: 4px; margin: 10px 0;}
+.mce-container .columns_container input.column_width {
+    margin-right: 5px;
+    padding: 9px 3px;
+    text-align: center;
+    width: 39px;
+}
